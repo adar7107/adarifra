@@ -16,5 +16,5 @@ I'm a multidisciplinary engineer passionate about embedded systems, signal proce
 - [LinkedIn] (www.linkedin.com/in/adar-ifrach-b0194b23b)
 
 
-- 7adar7l@gmail.com
+- 7adar7@gmail.com
 
